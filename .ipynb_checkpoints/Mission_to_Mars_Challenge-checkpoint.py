@@ -381,7 +381,7 @@
   {
    "cell_type": "code",
    "execution_count": 607,
-   "id": "e9cc9f1b",
+   "id": "2f178620",
    "metadata": {},
    "outputs": [
     {
@@ -406,7 +406,7 @@
   },
   {
    "cell_type": "markdown",
-   "id": "78cdca9b",
+   "id": "548ec3d9",
    "metadata": {},
    "source": [
     "### Visit the NASA Mars News Site"
@@ -415,7 +415,7 @@
   {
    "cell_type": "code",
    "execution_count": 608,
-   "id": "a2ac9492",
+   "id": "70f9b33e",
    "metadata": {},
    "outputs": [
     {
@@ -441,7 +441,7 @@
   {
    "cell_type": "code",
    "execution_count": 609,
-   "id": "a0bbe1d4",
+   "id": "ec3029c6",
    "metadata": {},
    "outputs": [],
    "source": [
@@ -455,7 +455,7 @@
   {
    "cell_type": "code",
    "execution_count": 610,
-   "id": "4852cbf2",
+   "id": "80277ccc",
    "metadata": {},
    "outputs": [
     {
@@ -476,7 +476,7 @@
   {
    "cell_type": "code",
    "execution_count": 611,
-   "id": "96c64369",
+   "id": "077cc060",
    "metadata": {},
    "outputs": [
     {
@@ -499,7 +499,7 @@
   {
    "cell_type": "code",
    "execution_count": 612,
-   "id": "961b0ab3",
+   "id": "eaa24144",
    "metadata": {},
    "outputs": [
     {
@@ -521,7 +521,7 @@
   },
   {
    "cell_type": "markdown",
-   "id": "526fe021",
+   "id": "dd2f4f2e",
    "metadata": {},
    "source": [
     "### JPL Space Images Featured Image"
@@ -530,7 +530,7 @@
   {
    "cell_type": "code",
    "execution_count": 613,
-   "id": "2c7e9456",
+   "id": "50fcfd63",
    "metadata": {},
    "outputs": [],
    "source": [
@@ -542,7 +542,7 @@
   {
    "cell_type": "code",
    "execution_count": 614,
-   "id": "0ac65d7c",
+   "id": "d7b64efc",
    "metadata": {},
    "outputs": [],
    "source": [
@@ -554,7 +554,7 @@
   {
    "cell_type": "code",
    "execution_count": 615,
-   "id": "28f9601e",
+   "id": "b180054b",
    "metadata": {},
    "outputs": [
     {
@@ -781,7 +781,7 @@
   {
    "cell_type": "code",
    "execution_count": 616,
-   "id": "879c1dc8",
+   "id": "5d067bd2",
    "metadata": {},
    "outputs": [
     {
@@ -804,7 +804,7 @@
   {
    "cell_type": "code",
    "execution_count": 617,
-   "id": "a51e6ddb",
+   "id": "4435378c",
    "metadata": {},
    "outputs": [
     {
@@ -826,7 +826,7 @@
   },
   {
    "cell_type": "markdown",
-   "id": "055a1006",
+   "id": "9e14e4ce",
    "metadata": {},
    "source": [
     "### Mars Facts"
@@ -835,7 +835,7 @@
   {
    "cell_type": "code",
    "execution_count": 618,
-   "id": "d8e0244a",
+   "id": "bc8994b1",
    "metadata": {},
    "outputs": [
     {
@@ -921,7 +921,7 @@
   {
    "cell_type": "code",
    "execution_count": 619,
-   "id": "7a63c29f",
+   "id": "2466e3bf",
    "metadata": {},
    "outputs": [
     {
@@ -1020,7 +1020,7 @@
   {
    "cell_type": "code",
    "execution_count": 620,
-   "id": "2364f4f4",
+   "id": "cbdbc280",
    "metadata": {},
    "outputs": [
     {
@@ -1040,7 +1040,7 @@
   },
   {
    "cell_type": "markdown",
-   "id": "fb71a197",
+   "id": "98df29fe",
    "metadata": {},
    "source": [
     "# D1: Scrape High-Resolution Mars’ Hemisphere Images and Titles"
@@ -1048,7 +1048,7 @@
   },
   {
    "cell_type": "markdown",
-   "id": "9bc39066",
+   "id": "29bf5267",
    "metadata": {},
    "source": [
     "### Hempispheres"
@@ -1057,7 +1057,7 @@
   {
    "cell_type": "code",
    "execution_count": 621,
-   "id": "ec8e0a91",
+   "id": "2f1b8517",
    "metadata": {},
    "outputs": [],
    "source": [
@@ -1070,7 +1070,7 @@
   {
    "cell_type": "code",
    "execution_count": 622,
-   "id": "82c2f4eb",
+   "id": "d6dc99fa",
    "metadata": {},
    "outputs": [],
    "source": [
@@ -1081,7 +1081,7 @@
   {
    "cell_type": "code",
    "execution_count": 623,
-   "id": "4a80ecfd",
+   "id": "d71c5fa6",
    "metadata": {},
    "outputs": [],
    "source": [
@@ -1107,7 +1107,7 @@
   {
    "cell_type": "code",
    "execution_count": 624,
-   "id": "433ec7e9",
+   "id": "22a85031",
    "metadata": {},
    "outputs": [
     {
@@ -1136,7 +1136,7 @@
   {
    "cell_type": "code",
    "execution_count": 553,
-   "id": "d4bfff33",
+   "id": "26c95206",
    "metadata": {},
    "outputs": [],
    "source": [
@@ -1147,7 +1147,7 @@
   {
    "cell_type": "code",
    "execution_count": null,
-   "id": "4066caae",
+   "id": "fe72a831",
    "metadata": {},
    "outputs": [],
    "source": []
